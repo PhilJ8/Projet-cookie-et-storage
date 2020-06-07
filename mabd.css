@@ -1,0 +1,53 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+
+body
+{
+  font-family:Arial,sans-serif;
+  font-size: 15px;
+}
+
+h1
+{
+  color: #444;
+  text-align: center;
+}
+
+h2
+{
+  color: #444;
+  font-size: 15px;
+}
+
+.vente
+{
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;  /*évite saut à la ligne à cause caractères*/
+  flex-wrap:wrap;
+}
+
+/* division*/
+div
+{
+  float: left;
+  margin-top:20px;
+  text-align;
+  padding-left: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+h2
+{
+  width: 180px;
+}
+
+.article
+{
+  text-align: center;
+}
